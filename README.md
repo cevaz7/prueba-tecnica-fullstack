@@ -56,6 +56,11 @@ Endpoints disponibles
 | GET    | /api/products | Listar productos |
 | POST   | /api/products | Crear producto   |
 
+Prueba rápida del backend
+Una vez iniciado el backend, se puede verificar el funcionamiento accediendo a:
+http://localhost:8080/api/products
+Esto devolverá una lista de productos en formato JSON.
+
 Notas
 
 El frontend se comunica con el backend mediante una API REST.
